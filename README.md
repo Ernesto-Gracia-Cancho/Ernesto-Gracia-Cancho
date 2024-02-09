@@ -4,7 +4,7 @@
 <h1 align="center"><b>Hello there , I'm Ernesto  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&weight=600&size=25&pause=1000&color=69C9F7&center=true&vCenter=true&random=false&width=435&separator=%3C&lines=Creative%2C%3CActive+Learner%2C%3COrganized%2C%3CData+Science%2FCibersecurity+Addict+;)%3CYou+may+want+to+continue+reading..." alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&weight=600&size=25&pause=1000&color=69C9F7&center=true&random=false&width=600&height=75&separator=%3C&lines=Creative%2C%3CActive+Learner%2C%3COrganized%2C%3CData+Science%2FCibersecurity+Addict+;)%3CYou+may+want+to+continue+reading..." alt="Typing SVG" /></a>
 </p>
 
 <br>
